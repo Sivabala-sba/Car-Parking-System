@@ -3,7 +3,7 @@
 2. Parking Design - Completed on 10/05/2023<br>
 3. Loading Design - Completed on 10/05/2023<br>
 4. Parking Page - Completed on 10/05/2023<br>
-5. Released Design<br>
+5. Released Design - Completed on 12/05/2023<br>
 6. Available Design<br>
 7. Creating Design<br>
 8. Login & Registration<br>

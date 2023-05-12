@@ -1,8 +1,8 @@
 <h1 align="center">Car Parking Management System</h1>
 1. Login Design - Completed on 09/05/2023<br>
-2. Parking Design<br>
-3. Loading Design<br>
-4. Parking Page<br>
+2. Parking Design - Completed on 10/05/2023<br>
+3. Loading Design - Completed on 10/05/2023<br>
+4. Parking Page - Completed on 10/05/2023<br>
 5. Released Design<br>
 6. Available Design<br>
 7. Creating Design<br>
